@@ -9,7 +9,7 @@ MAA.exe
 MAA.pdb
 MaaCore.lib
 MaaCore.pdb
-MaaCoreexp
+MaaCore.exp
 MaaCore.dll
 MaaResource
 onnxruntime_maa.dll
