@@ -15,54 +15,67 @@
                 }
             },
             {
-                "Display": "CV-6",
-                "Value": "CV-6",
-                "Drop": "30023",
+                "Display": "GO-7",
+                "Value": "GO-7",
+                "Drop": "30013",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「不义之财」复刻",
-                    "StageName": "「不义之财」复刻",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "SideStory「追迹日落以西」",
+                    "StageName": "「追迹日落以西」",
+                    "UtcStartTime": "2024/10/09 16:00:00",
+                    "UtcExpireTime": "2024/10/23 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "CV-7",
-                "Value": "CV-7",
-                "Drop": "30093",
+                "Display": "GO-8",
+                "Value": "GO-8",
+                "Drop": "31013",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「不义之财」复刻",
-                    "StageName": "「不义之财」复刻",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "SideStory「追迹日落以西」",
+                    "StageName": "「追迹日落以西」",
+                    "UtcStartTime": "2024/10/09 16:00:00",
+                    "UtcExpireTime": "2024/10/23 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "CV-8",
-                "Value": "CV-8",
-                "Drop": "31063",
+                "Display": "GO-9",
+                "Value": "GO-9",
+                "Drop": "31043",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「不义之财」复刻",
-                    "StageName": "「不义之财」复刻",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "SideStory「追迹日落以西」",
+                    "StageName": "「追迹日落以西」",
+                    "UtcStartTime": "2024/10/09 16:00:00",
+                    "UtcExpireTime": "2024/10/23 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "CV-4",
-                "Value": "CV-4",
-                "Drop": "搓玉效率0.7",
+                "Display": "GO-4",
+                "Value": "GO-4",
+                "Drop": "搓玉效率待测",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「不义之财」复刻",
-                    "StageName": "「不义之财」复刻",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "SideStory「追迹日落以西」",
+                    "StageName": "「追迹日落以西」",
+                    "UtcStartTime": "2024/10/09 16:00:00",
+                    "UtcExpireTime": "2024/10/23 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "GO-5",
+                "Value": "GO-5",
+                "Drop": "搓玉效率待测",
+                "MinimumRequired": "v4.28.6",
+                "Activity": {
+                    "Tip": "SideStory「追迹日落以西」",
+                    "StageName": "「追迹日落以西」",
+                    "UtcStartTime": "2024/10/09 16:00:00",
+                    "UtcExpireTime": "2024/10/23 03:59:59",
                     "TimeZone": 8
                 }
             }
@@ -78,54 +91,54 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-OD",
-                "Value": "SSReopen-OD",
-                "Drop": "SS「OP:OD」復刻 1~8",
+                "Display": "BB-6",
+                "Value": "BB-6",
+                "Drop": "30013",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「オペレーション オリジニウムダスト」復刻",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "サイドストーリー「バベル」",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/10/10 16:00:00",
+                    "UtcExpireTime": "2024/11/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "OD-7",
-                "Value": "OD-7",
-                "Drop": "30083",
+                "Display": "BB-7",
+                "Value": "BB-7",
+                "Drop": "30043",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「オペレーション オリジニウムダスト」復刻",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "サイドストーリー「バベル」",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/10/10 16:00:00",
+                    "UtcExpireTime": "2024/11/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "OD-8",
-                "Value": "OD-8",
-                "Drop": "30093",
+                "Display": "BB-8",
+                "Value": "BB-8",
+                "Drop": "31013",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「オペレーション オリジニウムダスト」復刻",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "サイドストーリー「バベル」",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/10/10 16:00:00",
+                    "UtcExpireTime": "2024/11/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "OD-6",
-                "Value": "OD-6",
-                "Drop": "初級源岩、初級装置（合成玉効率82%）",
+                "Display": "BB-4",
+                "Value": "BB-4",
+                "Drop": "初級源岩、初級糖原（合成玉効率35%）",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「オペレーション オリジニウムダスト」復刻",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "サイドストーリー「バベル」",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/10/10 16:00:00",
+                    "UtcExpireTime": "2024/11/01 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -141,54 +154,41 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-OD",
-                "Value": "SSReopen-OD",
-                "Drop": "1~8 스테이지 자동",
+                "Display": "BB-6",
+                "Value": "BB-6",
+                "Drop": "30013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「오리지늄 더스트」 재개방",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "SideStory「바벨」",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/10/10 16:00:00",
+                    "UtcExpireTime": "2024/11/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "OD-6",
-                "Value": "OD-6",
-                "Drop": "원암, 장치(효율 82%?)",
+                "Display": "BB-7",
+                "Value": "BB-7",
+                "Drop": "30043",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「오리지늄 더스트」 재개방",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "SideStory「바벨」",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/10/10 16:00:00",
+                    "UtcExpireTime": "2024/11/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "OD-7",
-                "Value": "OD-7",
-                "Drop": "30083",
+                "Display": "BB-8",
+                "Value": "BB-8",
+                "Drop": "31013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「오리지늄 더스트」 재개방",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "OD-8",
-                "Value": "OD-8",
-                "Drop": "30093",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "SideStory「오리지늄 더스트」 재개방",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "SideStory「바벨」",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/10/10 16:00:00",
+                    "UtcExpireTime": "2024/11/01 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -204,54 +204,41 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-OD",
-                "Value": "SSReopen-OD",
-                "Drop": "Clears OD-1~8",
+                "Display": "BB-6",
+                "Value": "BB-6",
+                "Drop": "30013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Originium Dust - Rerun",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 10:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "Sidestory Babel",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/10/10 10:00:00",
+                    "UtcExpireTime": "2024/11/01 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "OD-6",
-                "Value": "OD-6",
-                "Drop": "Orirock, Device. 82% efficiency, not recommended",
+                "Display": "BB-7",
+                "Value": "BB-7",
+                "Drop": "30043",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Originium Dust - Rerun",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 10:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "Sidestory Babel",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/10/10 10:00:00",
+                    "UtcExpireTime": "2024/11/01 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "OD-7",
-                "Value": "OD-7",
-                "Drop": "30083",
+                "Display": "BB-8",
+                "Value": "BB-8",
+                "Drop": "31013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Originium Dust - Rerun",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 10:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
-                    "TimeZone": -7
-                }
-            },
-            {
-                "Display": "OD-8",
-                "Value": "OD-8",
-                "Drop": "30093",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "Originium Dust - Rerun",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 10:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "Sidestory Babel",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/10/10 10:00:00",
+                    "UtcExpireTime": "2024/11/01 03:59:59",
                     "TimeZone": -7
                 }
             }
