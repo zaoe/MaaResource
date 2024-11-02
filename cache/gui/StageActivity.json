@@ -15,67 +15,54 @@
                 }
             },
             {
-                "Display": "GO-7",
-                "Value": "GO-7",
-                "Drop": "30013",
+                "Display": "PV-8",
+                "Value": "PV-8",
+                "Drop": "30083",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「追迹日落以西」",
-                    "StageName": "「追迹日落以西」",
-                    "UtcStartTime": "2024/10/09 16:00:00",
-                    "UtcExpireTime": "2024/10/23 03:59:59",
+                    "Tip": "SideStory「揭幕者们」",
+                    "StageName": "「揭幕者们」",
+                    "UtcStartTime": "2024/11/01 16:00:00",
+                    "UtcExpireTime": "2024/11/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "GO-8",
-                "Value": "GO-8",
-                "Drop": "31013",
+                "Display": "PV-9",
+                "Value": "PV-9",
+                "Drop": "30103",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「追迹日落以西」",
-                    "StageName": "「追迹日落以西」",
-                    "UtcStartTime": "2024/10/09 16:00:00",
-                    "UtcExpireTime": "2024/10/23 03:59:59",
+                    "Tip": "SideStory「揭幕者们」",
+                    "StageName": "「揭幕者们」",
+                    "UtcStartTime": "2024/11/01 16:00:00",
+                    "UtcExpireTime": "2024/11/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "GO-9",
-                "Value": "GO-9",
-                "Drop": "31043",
+                "Display": "PV-10",
+                "Value": "PV-10",
+                "Drop": "31053",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「追迹日落以西」",
-                    "StageName": "「追迹日落以西」",
-                    "UtcStartTime": "2024/10/09 16:00:00",
-                    "UtcExpireTime": "2024/10/23 03:59:59",
+                    "Tip": "SideStory「揭幕者们」",
+                    "StageName": "「揭幕者们」",
+                    "UtcStartTime": "2024/11/01 16:00:00",
+                    "UtcExpireTime": "2024/11/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "GO-4",
-                "Value": "GO-4",
-                "Drop": "搓玉效率0.69",
+                "Display": "PV-5",
+                "Value": "PV-5",
+                "Drop": "搓玉效率待测",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「追迹日落以西」",
-                    "StageName": "「追迹日落以西」",
-                    "UtcStartTime": "2024/10/09 16:00:00",
-                    "UtcExpireTime": "2024/10/23 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "GO-5",
-                "Value": "GO-5",
-                "Drop": "搓玉效率0.25",
-                "MinimumRequired": "v4.28.6",
-                "Activity": {
-                    "Tip": "SideStory「追迹日落以西」",
-                    "StageName": "「追迹日落以西」",
-                    "UtcStartTime": "2024/10/09 16:00:00",
-                    "UtcExpireTime": "2024/10/23 03:59:59",
+                    "Tip": "SideStory「揭幕者们」",
+                    "StageName": "「揭幕者们」",
+                    "UtcStartTime": "2024/11/01 16:00:00",
+                    "UtcExpireTime": "2024/11/22 03:59:59",
                     "TimeZone": 8
                 }
             }
@@ -141,6 +128,84 @@
                     "UtcExpireTime": "2024/11/01 03:59:59",
                     "TimeZone": 9
                 }
+            },
+            {
+                "Display": "14-16 厄難",
+                "Value": "14-16-HARD",
+                "Drop": "30063",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-16 通常",
+                "Value": "14-16-NORMAL",
+                "Drop": "30063",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-20 厄難",
+                "Value": "14-20-HARD",
+                "Drop": "30053",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-20 通常",
+                "Value": "14-20-NORMAL",
+                "Drop": "30053",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-15 厄難",
+                "Value": "14-15-HARD",
+                "Drop": "31053",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-15 通常",
+                "Value": "14-15-NORMAL",
+                "Drop": "31053",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
             }
         ],
         "resourceCollection": {
@@ -154,41 +219,80 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "BB-6",
-                "Value": "BB-6",
-                "Drop": "30013",
+                "Display": "14-16 하드",
+                "Value": "14-16-HARD",
+                "Drop": "30063",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「바벨」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/10/10 16:00:00",
-                    "UtcExpireTime": "2024/11/01 03:59:59",
+                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
+                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "BB-7",
-                "Value": "BB-7",
-                "Drop": "30043",
+                "Display": "14-16 일반",
+                "Value": "14-16-NORMAL",
+                "Drop": "30063",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「바벨」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/10/10 16:00:00",
-                    "UtcExpireTime": "2024/11/01 03:59:59",
+                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
+                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "BB-8",
-                "Value": "BB-8",
-                "Drop": "31013",
+                "Display": "14-20 하드",
+                "Value": "14-20-HARD",
+                "Drop": "30053",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「바벨」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/10/10 16:00:00",
-                    "UtcExpireTime": "2024/11/01 03:59:59",
+                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
+                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-20 일반",
+                "Value": "14-20-NORMAL",
+                "Drop": "30053",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
+                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-15 하드",
+                "Value": "14-15-HARD",
+                "Drop": "31053",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
+                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-15 일반",
+                "Value": "14-15-NORMAL",
+                "Drop": "31053",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
+                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
                     "TimeZone": 9
                 }
             }
