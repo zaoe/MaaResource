@@ -2,67 +2,54 @@
     "Official": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-CV",
-                "Value": "SSReopen-CV",
-                "Drop": "代理1~8",
+                "Display": "EP-8",
+                "Value": "EP-8",
+                "Drop": "30093",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「不义之财」复刻",
-                    "StageName": "「不义之财」复刻",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "SideStory「出苍白海」",
+                    "StageName": "「出苍白海」",
+                    "UtcStartTime": "2024/12/05 16:00:00",
+                    "UtcExpireTime": "2024/12/19 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "PV-8",
-                "Value": "PV-8",
-                "Drop": "30083",
+                "Display": "EP-7",
+                "Value": "EP-7",
+                "Drop": "30053",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「揭幕者们」",
-                    "StageName": "「揭幕者们」",
-                    "UtcStartTime": "2024/11/01 16:00:00",
-                    "UtcExpireTime": "2024/11/22 03:59:59",
+                    "Tip": "SideStory「出苍白海」",
+                    "StageName": "「出苍白海」",
+                    "UtcStartTime": "2024/12/05 16:00:00",
+                    "UtcExpireTime": "2024/12/19 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "PV-9",
-                "Value": "PV-9",
-                "Drop": "30103",
+                "Display": "EP-6",
+                "Value": "EP-6",
+                "Drop": "30023",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「揭幕者们」",
-                    "StageName": "「揭幕者们」",
-                    "UtcStartTime": "2024/11/01 16:00:00",
-                    "UtcExpireTime": "2024/11/22 03:59:59",
+                    "Tip": "SideStory「出苍白海」",
+                    "StageName": "「出苍白海」",
+                    "UtcStartTime": "2024/12/05 16:00:00",
+                    "UtcExpireTime": "2024/12/19 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "PV-10",
-                "Value": "PV-10",
-                "Drop": "31053",
+                "Display": "EP-4",
+                "Value": "EP-4",
+                "Drop": "搓玉效率0.7",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「揭幕者们」",
-                    "StageName": "「揭幕者们」",
-                    "UtcStartTime": "2024/11/01 16:00:00",
-                    "UtcExpireTime": "2024/11/22 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "PV-5",
-                "Value": "PV-5",
-                "Drop": "搓玉效率待测",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory「揭幕者们」",
-                    "StageName": "「揭幕者们」",
-                    "UtcStartTime": "2024/11/01 16:00:00",
-                    "UtcExpireTime": "2024/11/22 03:59:59",
+                    "Tip": "SideStory「出苍白海」",
+                    "StageName": "「出苍白海」",
+                    "UtcStartTime": "2024/12/05 16:00:00",
+                    "UtcExpireTime": "2024/12/19 03:59:59",
                     "TimeZone": 8
                 }
             }
@@ -78,67 +65,54 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-CW",
-                "Value": "SSReopen-CW",
-                "Drop": "SS「孤星」復刻 1~10",
-                "MinimumRequired": "v5.3.1",
+                "Display": "BP-5",
+                "Value": "BP-5",
+                "Drop": "31033",
+                "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「孤星」復刻",
-                    "StageName": "CW",
-                    "UtcStartTime": "2024/11/21 16:00:00",
-                    "UtcExpireTime": "2024/12/01 03:59:59",
+                    "Tip": "サイドストーリー「生存航路」",
+                    "StageName": "BP",
+                    "UtcStartTime": "2024/12/03 16:00:00",
+                    "UtcExpireTime": "2024/12/17 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "CW-8",
-                "Value": "CW-8",
-                "Drop": "30053",
-                "MinimumRequired": "v5.3.1",
+                "Display": "BP-6",
+                "Value": "BP-6",
+                "Drop": "30023",
+                "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「孤星」復刻",
-                    "StageName": "CW",
-                    "UtcStartTime": "2024/11/21 16:00:00",
-                    "UtcExpireTime": "2024/12/01 03:59:59",
+                    "Tip": "サイドストーリー「生存航路」",
+                    "StageName": "BP",
+                    "UtcStartTime": "2024/12/03 16:00:00",
+                    "UtcExpireTime": "2024/12/17 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "CW-9",
-                "Value": "CW-9",
-                "Drop": "31043",
-                "MinimumRequired": "v5.3.1",
+                "Display": "BP-7",
+                "Value": "BP-7",
+                "Drop": "30073",
+                "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「孤星」復刻",
-                    "StageName": "CW",
-                    "UtcStartTime": "2024/11/21 16:00:00",
-                    "UtcExpireTime": "2024/12/01 03:59:59",
+                    "Tip": "サイドストーリー「生存航路」",
+                    "StageName": "BP",
+                    "UtcStartTime": "2024/12/03 16:00:00",
+                    "UtcExpireTime": "2024/12/17 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "CW-10",
-                "Value": "CW-10",
-                "Drop": "31023",
-                "MinimumRequired": "v5.3.1",
+                "Display": "BP-4",
+                "Value": "BP-4",
+                "Drop": "初級源岩、初級エステル（合成玉効率64%）",
+                "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「孤星」復刻",
-                    "StageName": "CW",
-                    "UtcStartTime": "2024/11/21 16:00:00",
-                    "UtcExpireTime": "2024/12/01 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "CW-6",
-                "Value": "CW-6",
-                "Drop": "初級源岩、初級糖原（合成玉効率35%）",
-                "MinimumRequired": "v5.3.1",
-                "Activity": {
-                    "Tip": "サイドストーリー「孤星」復刻",
-                    "StageName": "CW",
-                    "UtcStartTime": "2024/11/21 16:00:00",
-                    "UtcExpireTime": "2024/12/01 03:59:59",
+                    "Tip": "サイドストーリー「生存航路」",
+                    "StageName": "BP",
+                    "UtcStartTime": "2024/12/03 16:00:00",
+                    "UtcExpireTime": "2024/12/17 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -154,67 +128,41 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-CW",
-                "Value": "SSReopen-CW",
-                "Drop": "SS「론 트레일」복각 1~10",
+                "Display": "BP-5",
+                "Value": "BP-5",
+                "Drop": "31033",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「론 트레일」 재개방",
-                    "StageName": "CW",
-                    "UtcStartTime": "2024/11/21 16:00:00",
-                    "UtcExpireTime": "2024/12/01 03:59:59",
+                    "Tip": "Sidestory「삶의 길」",
+                    "StageName": "BP",
+                    "UtcStartTime": "2024/12/03 16:00:00",
+                    "UtcExpireTime": "2024/12/17 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "CW-8",
-                "Value": "CW-8",
-                "Drop": "30053",
+                "Display": "BP-6",
+                "Value": "BP-6",
+                "Drop": "30023",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「론 트레일」 재개방",
-                    "StageName": "CW",
-                    "UtcStartTime": "2024/11/21 16:00:00",
-                    "UtcExpireTime": "2024/12/01 03:59:59",
+                    "Tip": "Sidestory「삶의 길」",
+                    "StageName": "BP",
+                    "UtcStartTime": "2024/12/03 16:00:00",
+                    "UtcExpireTime": "2024/12/17 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "CW-9",
-                "Value": "CW-9",
-                "Drop": "31043",
+                "Display": "BP-7",
+                "Value": "BP-7",
+                "Drop": "30073",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「론 트레일」 재개방",
-                    "StageName": "CW",
-                    "UtcStartTime": "2024/11/21 16:00:00",
-                    "UtcExpireTime": "2024/12/01 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "CW-10",
-                "Value": "CW-10",
-                "Drop": "31023",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "Sidestory「론 트레일」 재개방",
-                    "StageName": "CW",
-                    "UtcStartTime": "2024/11/21 16:00:00",
-                    "UtcExpireTime": "2024/12/01 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "CW-6",
-                "Value": "CW-6",
-                "Drop": "원암 및 포도당 (오리지늄 조각 효율 35%)",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "Sidestory「론 트레일」 재개방",
-                    "StageName": "CW",
-                    "UtcStartTime": "2024/11/21 16:00:00",
-                    "UtcExpireTime": "2024/12/01 03:59:59",
+                    "Tip": "Sidestory「삶의 길」",
+                    "StageName": "BP",
+                    "UtcStartTime": "2024/12/03 16:00:00",
+                    "UtcExpireTime": "2024/12/17 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -230,41 +178,41 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "BB-6",
-                "Value": "BB-6",
-                "Drop": "30013",
+                "Display": "BP-5",
+                "Value": "BP-5",
+                "Drop": "31033",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory Babel",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/10/10 10:00:00",
-                    "UtcExpireTime": "2024/11/01 03:59:59",
+                    "Tip": "Path of Life",
+                    "StageName": "BP",
+                    "UtcStartTime": "2024/12/03 10:00:00",
+                    "UtcExpireTime": "2024/12/17 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "BB-7",
-                "Value": "BB-7",
-                "Drop": "30043",
+                "Display": "BP-6",
+                "Value": "BP-6",
+                "Drop": "30023",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory Babel",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/10/10 10:00:00",
-                    "UtcExpireTime": "2024/11/01 03:59:59",
+                    "Tip": "Path of Life",
+                    "StageName": "BP",
+                    "UtcStartTime": "2024/12/03 10:00:00",
+                    "UtcExpireTime": "2024/12/17 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "BB-8",
-                "Value": "BB-8",
-                "Drop": "31013",
+                "Display": "BP-7",
+                "Value": "BP-7",
+                "Drop": "30073",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory Babel",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/10/10 10:00:00",
-                    "UtcExpireTime": "2024/11/01 03:59:59",
+                    "Tip": "Path of Life",
+                    "StageName": "BP",
+                    "UtcStartTime": "2024/12/03 10:00:00",
+                    "UtcExpireTime": "2024/12/17 03:59:59",
                     "TimeZone": -7
                 }
             }
@@ -280,54 +228,54 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-FC",
-                "Value": "SSReopen-FC",
-                "Drop": "代理1~8",
+                "Display": "SSReopen-WB",
+                "Value": "SSReopen-WB",
+                "Drop": "代理1~9",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「照我以火」復刻",
-                    "StageName": "FC",
-                    "UtcStartTime": "2024/11/14 16:00:00",
-                    "UtcExpireTime": "2024/11/24 03:59:59",
+                    "Tip": "SideStory「登臨意」復刻",
+                    "StageName": "WB",
+                    "UtcStartTime": "2024/11/24 16:00:00",
+                    "UtcExpireTime": "2024/12/04 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "FC-5",
-                "Value": "FC-5",
-                "Drop": "30023",
+                "Display": "WB-7",
+                "Value": "WB-7",
+                "Drop": "30053",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「照我以火」復刻",
-                    "StageName": "FC",
-                    "UtcStartTime": "2024/11/14 16:00:00",
-                    "UtcExpireTime": "2024/11/24 03:59:59",
+                    "Tip": "SideStory「登臨意」復刻",
+                    "StageName": "WB",
+                    "UtcStartTime": "2024/11/24 16:00:00",
+                    "UtcExpireTime": "2024/12/04 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "FC-6",
-                "Value": "FC-6",
-                "Drop": "30043",
+                "Display": "WB-8",
+                "Value": "WB-8",
+                "Drop": "30083",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「照我以火」復刻",
-                    "StageName": "FC",
-                    "UtcStartTime": "2024/11/14 16:00:00",
-                    "UtcExpireTime": "2024/11/24 03:59:59",
+                    "Tip": "SideStory「登臨意」復刻",
+                    "StageName": "WB",
+                    "UtcStartTime": "2024/11/24 16:00:00",
+                    "UtcExpireTime": "2024/12/04 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "FC-7",
-                "Value": "FC-7",
-                "Drop": "31043",
+                "Display": "WB-9",
+                "Value": "WB-9",
+                "Drop": "31033",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「照我以火」復刻",
-                    "StageName": "FC",
-                    "UtcStartTime": "2024/11/14 16:00:00",
-                    "UtcExpireTime": "2024/11/24 03:59:59",
+                    "Tip": "SideStory「登臨意」復刻",
+                    "StageName": "WB",
+                    "UtcStartTime": "2024/11/24 16:00:00",
+                    "UtcExpireTime": "2024/12/04 03:59:59",
                     "TimeZone": 8
                 }
             }

@@ -1,9 +1,8 @@
 {
-    "BB-OpenOcr": {
-        "text": ["Babel", "open", "event", "Past", "Ward", "Constant", "stages"]
+    "BP-OpenOcr":{
+        "text": ["Path", "Life", "event", "open", "Fortify", "Defense"]
     },
-    "BBChapterToBB": {
-        "text": ["Future", "FUTURE", "Gifts", "Gifts"],
-        "roi": [1000, 589, 209, 131]
+    "BPChapterToBP":{
+        "text": ["Deploy", "DEPLOY", "Beacons", "BEACONS"]
     }
 }
