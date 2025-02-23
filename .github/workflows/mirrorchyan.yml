@@ -1,0 +1,30 @@
+name: mirrorchyan
+
+on:
+  push:
+    branches:
+      - "main"
+    paths:
+      - ".github/workflows/mirrorchyan.yml"
+      - "resource/**"
+  workflow_dispatch:
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Version Name
+        id: version_name
+        run: |
+          version=$(cat resource/version.json | jq -r .last_updated)
+          echo "version=$version" | tee -a "$GITHUB_OUTPUT"
+
+      - uses: MirrorChyan/uploading-action@v1
+        with:
+          filetype: local
+          mirrorchyan_rid: MaaResource
+          pick_files: '["resource"]'
+          version_name: ${{ steps.version_name.outputs.version }}
+          upload_token: ${{ secrets.MirrorChyanUploadToken }}

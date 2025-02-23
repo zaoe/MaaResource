@@ -1,8 +1,39 @@
 {
-    "BP-OpenOcr":{
-        "text": ["Path", "Life", "event", "open", "Fortify", "Defense"]
+    "OrundumActivities": {
+        "text": [
+            "Lucky Strips",
+            "Wishing Wall",
+            "Bazaar"
+        ]
     },
-    "BPChapterToBP":{
-        "text": ["Deploy", "DEPLOY", "Beacons", "BEACONS"]
+    "OrundumActivitiesChoose": {
+        "text": [
+            "Choose",
+            "spot",
+            "Please select",
+            "Wishing",
+            "Tickets"
+        ]
+    },
+    "AS-OpenOcr": {
+        "text": [
+            "Adventure",
+            "Cannot",
+            "Wait",
+            "Sun",
+            "Harvest",
+            "Gathering",
+            "Treasure",
+            "House"
+        ],
+        "roi": [0, 500, 500, 150]
+    },
+    "ASChapterToAS": {
+        "text": [
+            "Citizen",
+            "CITIZEN",
+            "Garden",
+            "GARDEN"
+        ]
     }
 }

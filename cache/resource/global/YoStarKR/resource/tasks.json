@@ -1,20 +1,20 @@
 {
-    "Sami@Roguelike@StageEnterBattleAgain": {
-        "specificRect": [1180, 460, 30, 20]
+    "OrundumActivities": {
+        "doc": "Orundum Lucky Draw from Limited Event",
+        "text": ["용문", "복권방", "소원"],
+        "roi": [5, 65, 170, 110]
     },
-    "BP-OpenOcr": {
-        "text": ["삶의", "길", "이벤트", "개방"]
+    "OrundumActivitiesChoose": {
+        "text": ["행운티켓", "선택"]
     },
-    "BPChapterToBP": {
-        "text": ["비콘", "설치"]
+    "OrundumActivitiesConfirm": {
+        "text": ["뽑기"]
     },
-    "SpecialAccessActivities": {
-        "doc": "5주년 먼슬리 카드",
-        "text": ["스페셜"],
-        "roi": [0, 20, 302, 302]
+    "AS-OpenOcr": {
+        "text": ["태양을", "뿌리쳐라", "이벤트", "개방중"],
+        "roi": [0, 500, 500, 150]
     },
-    "SpecialAccessActivitiesConfirm": {
-        "text": ["수령", "하기"],
-        "postDelay": 500
+    "ASChapterToAS": {
+        "text": ["시민", "정원"]
     }
 }
