@@ -37,6 +37,12 @@
             "tags": ["支援机械", "元素", "远程位", "辅助干员"]
         },
         {
+            "id": "char_4188_confes",
+            "name": "CONFESS-47",
+            "rarity": 1,
+            "tags": ["支援机械", "控场", "近战位", "先锋干员"]
+        },
+        {
             "id": "char_502_nblade",
             "name": "Yato",
             "rarity": 2,
@@ -391,6 +397,18 @@
             "tags": ["输出", "近战位", "近卫干员"]
         },
         {
+            "id": "char_440_pinecn",
+            "name": "Pinecone",
+            "rarity": 4,
+            "tags": ["群攻", "输出", "远程位", "狙击干员"]
+        },
+        {
+            "id": "char_452_bstalk",
+            "name": "Beanstalk",
+            "rarity": 4,
+            "tags": ["费用回复", "召唤", "远程位", "先锋干员"]
+        },
+        {
             "id": "char_155_tiger",
             "name": "Indra",
             "rarity": 5,
@@ -679,6 +697,36 @@
             "tags": ["治疗", "远程位", "资深干员", "医疗干员"]
         },
         {
+            "id": "char_214_kafka",
+            "name": "Kafka",
+            "rarity": 5,
+            "tags": ["快速复活", "控场", "近战位", "资深干员", "特种干员"]
+        },
+        {
+            "id": "char_338_iris",
+            "name": "Iris",
+            "rarity": 5,
+            "tags": ["输出", "远程位", "资深干员", "术师干员"]
+        },
+        {
+            "id": "char_455_nothin",
+            "name": "Mr. Nothing",
+            "rarity": 5,
+            "tags": ["快速复活", "输出", "近战位", "资深干员", "特种干员"]
+        },
+        {
+            "id": "char_363_toddi",
+            "name": "Toddifons",
+            "rarity": 5,
+            "tags": ["输出", "远程位", "资深干员", "狙击干员"]
+        },
+        {
+            "id": "char_475_akafyu",
+            "name": "Akafuyu",
+            "rarity": 5,
+            "tags": ["生存", "输出", "近战位", "资深干员", "近卫干员"]
+        },
+        {
             "id": "char_103_angel",
             "name": "Exusiai",
             "rarity": 6,
@@ -839,6 +887,36 @@
             "name": "Mudrock",
             "rarity": 6,
             "tags": ["生存", "防护", "输出", "近战位", "高级资深干员", "重装干员"]
+        },
+        {
+            "id": "char_264_f12yin",
+            "name": "Mountain",
+            "rarity": 6,
+            "tags": ["输出", "生存", "近战位", "高级资深干员", "近卫干员"]
+        },
+        {
+            "id": "char_332_archet",
+            "name": "Archetto",
+            "rarity": 6,
+            "tags": ["输出", "远程位", "高级资深干员", "狙击干员"]
+        },
+        {
+            "id": "char_362_saga",
+            "name": "Saga",
+            "rarity": 6,
+            "tags": ["费用回复", "输出", "近战位", "高级资深干员", "先锋干员"]
+        },
+        {
+            "id": "char_472_pasngr",
+            "name": "Passenger",
+            "rarity": 6,
+            "tags": ["输出", "远程位", "高级资深干员", "术师干员"]
+        },
+        {
+            "id": "char_003_kalts",
+            "name": "Kal'tsit",
+            "rarity": 6,
+            "tags": ["召唤", "治疗", "远程位", "高级资深干员", "医疗干员"]
         }
     ],
     "tags": {
